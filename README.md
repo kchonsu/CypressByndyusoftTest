@@ -1,4 +1,4 @@
 # ByndyusoftTest
-cd cypress/integration
-there is HiByndyusoft.spec.js
-write npm run test:cypress open
+cd cypress/integration<br>
+there is HiByndyusoft.spec.js<br>
+write <br>npm run test:cypress open
